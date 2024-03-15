@@ -35,6 +35,9 @@ This app is designed to work seamlessly even without an internet connection. The
 
 All the scanned PDFs are stored locally on the device's storage, allowing users to access and manage their documents without relying on an internet connection. The app leverages local storage and offline processing for a smooth user experience.
 
+## Video
+
+https://github.com/shiv-eng/ML-Kit-Document-Scanner-App/assets/59472647/17089bca-572b-4774-a2ba-8193641b1672
 
 ## About Me
 
